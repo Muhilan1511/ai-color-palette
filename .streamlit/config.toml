@@ -1,0 +1,13 @@
+[client]
+showErrorDetails = true
+
+[logger]
+level = "info"
+
+[server]
+port = 10000
+headless = true
+runOnSave = true
+
+[browser]
+gatherUsageStats = false
